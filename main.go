@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/lucreziabernini/midPoint"
+	"github.com/lucreziabernini/puntoMedio"
 )
 
 func main() {
